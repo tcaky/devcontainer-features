@@ -1,0 +1,7 @@
+{
+    "name": "alpine-tzdata",
+    "id": "alpine-tzdata",
+    "version": "0.0.1",
+    "description": "Installs tzdata on alpine",
+    "documentationURL": "https://github.com/tcaky/devcontainers-features/tree/main/src/alpine-tzdata"
+  }
