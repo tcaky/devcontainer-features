@@ -1,7 +1,7 @@
 name: "Release dev container features & Generate Documentation"
 on:
   push:
-
+  workflow_dispatch:
 jobs:
   deploy:
     if: ${{ github.ref == 'refs/heads/main' }}
