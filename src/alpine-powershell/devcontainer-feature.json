@@ -1,0 +1,7 @@
+{
+    "name": "alpine-powershell",
+    "id": "alpine-powershell",
+    "version": "0.0.1",
+    "description": "Installs PowerShell on alpine",
+    "documentationURL": "https://github.com/tcaky/devcontainers-features/tree/main/src/alpine-powershell"
+}
