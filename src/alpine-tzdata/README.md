@@ -11,7 +11,11 @@ Installs tzdata on alpine
 }
 ```
 
+## Options
 
+| Options Id | Description | Type | Default Value |
+|-----|-----|-----|-----|
+| TZ | Set timezone value, i.e. 'America/Toronto' | string | UTC |
 
 Structure for this feature, copied from:
 https://github.com/cirolosapio/devcontainers-features/blob/main/src/alpine-jq
