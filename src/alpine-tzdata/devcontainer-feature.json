@@ -4,4 +4,12 @@
     "version": "0.0.1",
     "description": "Installs tzdata on alpine",
     "documentationURL": "https://github.com/tcaky/devcontainers-features/tree/main/src/alpine-tzdata"
+    "options": {
+        "TZ": {
+            "type": "string",
+            "default": "UTC"
+            "description": "Set timezone value, i.e. 'America/Toronto'"
+            
+        }
+    }
   }
