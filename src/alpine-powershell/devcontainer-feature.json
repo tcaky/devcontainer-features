@@ -3,5 +3,13 @@
     "id": "alpine-powershell",
     "version": "0.0.1",
     "description": "Installs PowerShell on alpine",
-    "documentationURL": "https://github.com/tcaky/devcontainers-features/tree/main/src/alpine-powershell"
+    "documentationURL": "https://github.com/tcaky/devcontainers-features/tree/main/src/alpine-powershell",
+    "options": {
+        "vscodeShellSwap": {
+            "type": "boolean",
+            "default": false,
+            "description": "Change vscode shell to PowerShell after install"
+        }
+    }
+
 }
