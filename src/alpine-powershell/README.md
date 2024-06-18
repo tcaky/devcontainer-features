@@ -11,11 +11,7 @@ Installs PowerShell on alpine
 }
 ```
 
-## Options
 
-| Options Id | Description | Type | Default Value |
-|-----|-----|-----|-----|
-| vscodeShellSwap | Change vscode shell to PowerShell after install | boolean | false |
 
 
 
