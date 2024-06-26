@@ -1,0 +1,7 @@
+{
+    "name": "alpine-bindtools",
+    "id": "alpine-bindtools",
+    "version": "0.0.1",
+    "description": "Installs bind-tools on Alpine",
+    "documentationURL": "https://github.com/tcaky/devcontainers-features/tree/main/src/alpine-bindtools"
+}
